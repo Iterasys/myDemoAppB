@@ -17,7 +17,6 @@ def product(driver):
 def cart(driver):
     return cart_page.CartPage(driver)
 
-
 # os testes
 
 # teste positivo do fluxo de comprar
